@@ -1,0 +1,12 @@
+*
+!.gitignore
+!*.cpp
+!*.hpp
+!*.c
+!*.h
+!*.pdf
+!/data
+!/data.old
+!*.dat
+!*.lua
+!*.sh
